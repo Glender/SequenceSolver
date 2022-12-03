@@ -1,0 +1,2 @@
+# SequenceSolver
+Solving Numerical Sequences
